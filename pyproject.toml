@@ -1,0 +1,22 @@
+[project]
+name = "agentic-ai-workspace"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arxiv>=2.4.0",
+    "boto3>=1.42.34",
+    "langchain>=1.2.6",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.7",
+    "langchain-groq>=1.1.1",
+    "langchain-openai>=1.1.7",
+    "langgraph>=1.0.6",
+    "pillow>=12.1.0",
+    "python-dotenv>=1.2.1",
+    "replicate>=1.0.7",
+    "streamlit>=1.53.1",
+    "tavily-python>=0.7.19",
+    "wikipedia>=1.4.0",
+]
